@@ -1,8 +1,8 @@
-<h1 align="center">pftgnotifications</h1>
-<p align="center"><strong>Pokefinder telegram notifications.</strong></p>
+<h1 align="center">pfvknotifications</h1>
+<p align="center"><strong>Pokefinder vk notifications.</strong></p>
 
 # Usage 
-**This simple script listen Poke Finder sound that signals the spawn of the desired Pokemon and notifies the player about this in Telegram Bot**
+**This simple script listen Poke Finder sound that signals the spawn of the desired Pokemon and notifies the player about this in VK community**
 
 # Prerequisites
 1. git >= 2.5 

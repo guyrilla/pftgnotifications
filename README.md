@@ -23,7 +23,12 @@
 9. Paste User ID into ```.env``` VK_PEER_ID variable
 10. Get Community ID (Open community page, check URL and take numbers after /club. For example 'https://vk.ru/club123456789')
 11. Paste Community ID into ```.env``` VK_GROUP_ID variable
-12. Start script 
+12. Create and activate virtual environment (see [https://docs.python.org/3/tutorial/venv.html](https://docs.python.org/3/tutorial/venv.html))
+13. Install requirements
+```bash
+pip install -r requirements.txt
+```
+14. Start script 
 ```bash
 python main.py "any_message"
 ```

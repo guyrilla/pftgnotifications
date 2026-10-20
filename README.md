@@ -1,5 +1,10 @@
 <h1 align="center">pfvknotifications</h1>
 <p align="center"><strong>Pokefinder vk notifications.</strong></p>
+<p align="center">
+  <a href="https://wiki.cobblemon.com/index.php/Pok%C3%A9_Ball#/media/File:Poke_Ball_(model).png" target="_blank" rel="noopener">
+    <img src="https://wiki.cobblemon.com/index.php/Pok%C3%A9_Ball#/media/File:Poke_Ball_(model).png" alt="Описание картинки" width="300" height="200">
+  </a>
+</p>
 
 # Usage 
 **This simple script listen Poke Finder sound that signals the spawn of the desired Pokemon and notifies the player about this in VK community**

@@ -1,11 +1,14 @@
 <h1 align="center">pftgnotifications</h1>
 <p align="center"><strong>Pokefinder telegram notifications.</strong></p>
-<h1 align="center">Description</h1>
+
+# Usage 
 **This simple script listen Poke Finder sound that signals the spawn of the desired Pokemon and notifies the player about this in Telegram Bot**
-<h1 align="center">Prerequisites</h1>
+
+# Prerequisites
 1. git >= 2.5 
 2. python >= 3.14
-<h1 align="center">How to start</h1>
+
+# How to start
 1. Clone this repository
 2. Open repository folder
 3. Rename .env_example file to .env

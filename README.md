@@ -1,9 +1,7 @@
 <h1 align="center">pfvknotifications</h1>
 <p align="center"><strong>Pokefinder vk notifications.</strong></p>
 <p align="center">
-  <a href="https://wiki.cobblemon.com/index.php/Pok%C3%A9_Ball#/media/File:Poke_Ball_(model).png" target="_blank" rel="noopener">
-    <img src="https://wiki.cobblemon.com/index.php/Pok%C3%A9_Ball#/media/File:Poke_Ball_(model).png" alt="Описание картинки" width="300" height="200">
-  </a>
+  <img src="https://wiki.cobblemon.com/images/3/38/Poke_Ball_%28model%29.png" alt="Pokeball">
 </p>
 
 # Usage 
